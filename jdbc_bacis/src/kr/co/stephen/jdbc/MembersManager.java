@@ -20,7 +20,7 @@ public class MembersManager {
 			System.out.println("# 4.회원 정보 삭제하기");
 			System.out.println("# 5.프로그램 종료");
 			System.out.println("Git 연습 수정");
-			
+			System.out.println("Git 마스터 체인지");
 			System.out.println("#메뉴를 입력하세요:");
 			int  menu = sc.nextInt();
 			
